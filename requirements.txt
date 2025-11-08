@@ -1,0 +1,13 @@
+Functional Requirements:
+1. The form collects user information: Full Name, Username, Email, Password, Confirm Password.
+2. All fields are required; the form validates that no fields are empty.
+3. Email must be in a proper format.
+4. Passwords must match.
+5. On successful submission, a message is displayed indicating registration success (demo only, no data stored).
+
+Non-functional Requirements:
+1. The form uses semantic HTML elements (<form>, <label>, <input>, <button>).
+2. CSS is stored in an external file and maps correctly to HTML using classes.
+3. The form is responsive and looks good.
+4. JavaScript enhances functionality (form validation) but does not affect page layout or styling.
+5. The page design is clear, complete, and unambiguous.
